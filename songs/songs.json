@@ -1,0 +1,46 @@
+{
+    "albums": [
+        {
+            "folder": "HollyWood",
+            "title": "Global Hit's",
+            "description": "Songs for you",
+            "songs": [
+                "I think they call this love.mpeg",
+                "Sweater weather.mpeg",
+                "Too Good to be true.mpeg"
+            ]
+        },
+        {
+            "folder": "Hot Hits",
+            "title": "Hot Hit's",
+            "description": "Biggest Hits",
+            "songs": [
+                "Too Good to be true.mpeg"
+            ]
+        },
+        {
+            "folder": "Love song",
+            "title": "Love tune's",
+            "description": "Fresh Romantic tracks to match your mood",
+            "songs": [
+                "Tere Naina.mpeg"
+            ]
+        },
+        {
+            "folder": "Old Hindi",
+            "title": "90's Hits",
+            "description": "Bollywood Songs",
+            "songs": [
+                "Too Good to be true.mpeg"
+            ]
+        },
+        {
+            "folder": "Tunes",
+            "title": "RadioHead Songs",
+            "description": "Melancholic sounds for late light",
+            "songs": [
+                "Tune 1.mpeg"
+            ]
+        }
+    ]
+}
